@@ -1,0 +1,32 @@
+.heading{
+    font-size:23px ;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size:15px;
+    color:white;
+}
+.footer{
+    position:fixed;
+    background-color:aquamarine;
+    color:darkmagenta;
+    text-align:center;
+    width: 100%;
+    bottom:0;
+}
+
+canvas{
+    margin-top: 50px;
+    border:3px solid white;
+}
+body{
+    background-image: url("https://wallpapers.com/images/hd/compressed-letters-in-alphabet-8zqvdx6owk8mzmyy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#answer{
+    font-weight: bolder;
+    font-size: 20px;
+}
